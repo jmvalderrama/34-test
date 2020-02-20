@@ -96,7 +96,6 @@ Clase Palindromo
 FinClase``  
 
 7.  
-``
 Clase Consonantes  
   Texto cadena;  
   Imprimir 'Ingrese la palabra a verificar';  
@@ -111,4 +110,4 @@ Clase Consonantes
     FinPara  
   FinPara  
   Imprimir 'El texto ' + cadena + ' tiene ' + cont ' consonantes';  
-FinClase``  
+FinClase  
