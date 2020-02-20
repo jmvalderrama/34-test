@@ -1,0 +1,23 @@
+{
+  "name": "34-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "first": "node first.js",
+    "second": "node second.js",
+    "third": "node third.js",
+    "fourth": "node fourth.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmvalderrama/34-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmvalderrama/34-test/issues"
+  },
+  "homepage": "https://github.com/jmvalderrama/34-test#readme"
+}
