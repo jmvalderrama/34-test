@@ -1,7 +1,6 @@
 ## Prueba Lógica  
 
 1.  
-``
 Clase NumeroFaltante  
   Array arreglo = [100];  
   Para i = 0 Hasta i < 100  
@@ -11,10 +10,9 @@ Clase NumeroFaltante
       FinSi  
     FinPara  
   FinPara  
-FinClase``  
+FinClase  
 
 2.  
-``
 Clase Duplicado  
   Array arreglo = [z];  
   Numero dup = 0;  
@@ -25,10 +23,9 @@ Clase Duplicado
       FinSi  
     FinPara  
   FinPara  
-FinClase``  
+FinClase
 
 3.  
-``
 Clase ReversarOrden  
   Array arreglo = [z];  
   Numero max, aux = 0;  
@@ -47,10 +44,9 @@ Clase ReversarOrden
       arreglo[max - 1 - i] = aux;  
     FinPara  
   FinSi  
-FinClase``  
+FinClase
 
 4.  
-``
 Clase Intercambio  
   Numero a, b;  
   Imprimir 'Ingrese el valor de A';  
@@ -60,10 +56,9 @@ Clase Intercambio
   a = (b - a) + a;  
   b = (a + b) - b;  
   Imprimir 'Ahora A = ' + a + ' y B = ' + b;  
-FinClase``  
+FinClase
 
 5.  
-``
 Clase Palindromo  
   Texto cadena;  
   Imprimir 'Ingrese la palabra a verificar';  
@@ -93,7 +88,7 @@ Clase Palindromo
     FinPara  
     Si x == 0 Entonces Imprimir 'El texto ' + cadena + ' es palíndromo';  
   FinSi  
-FinClase``  
+FinClase
 
 7.  
 Clase Consonantes  
